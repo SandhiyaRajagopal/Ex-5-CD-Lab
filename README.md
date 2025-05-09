@@ -67,7 +67,7 @@ int main() {
 void yyerror(const char *msg) {
     printf("Syntax error: %s\n", msg);
 }
-
+```
 
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/ffae4fe7-58ea-4635-8de0-85af6a30c46f)
